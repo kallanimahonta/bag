@@ -1,0 +1,44 @@
+.wrapper{
+  
+    flex-direction:flex;
+    padding-right:15px;
+    justify-content:center;
+    
+  }
+  .wrapper div{
+    height:60px;
+    border:none;
+    padding:15px;
+    gap:3px;
+    background-position: center;
+    background-size:50%;
+    border-radius:8px 8px;
+    repeat:no-repeat;
+    margin-bottom:20px;
+    justify-content:space-between;
+    align-items:center;
+    
+  }
+  
+  
+  .c1{
+    display:flex;
+    width:95%;
+    background-color:#00BFFF;
+    margin-right:15px;
+    
+    
+  }
+  .c2{
+    
+   display:flex;
+    width:95%;
+    background-color:#0000FF;
+    margin-right:15px
+  }
+  .c3{
+    display:flex;
+    width:95%;
+    background-color:#2E8B57;
+    
+  }
